@@ -5,7 +5,7 @@ Student cybersecurity project documenting inbound and outbound traffic rules in 
 **Author:** Camilo Hernandez  
 **Lab date:** November 8, 2026  
 **Environment:** Windows virtual machine in a browser-based training lab  
-**Exercise:** 5.12 LAB: Securing the network (Scenario)
+**Exercise:** Securing the network (Scenario)
 
 ## Project Overview
 
